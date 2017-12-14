@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+db.sqlites
+blog_post
+modelforms
+newsletter
